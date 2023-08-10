@@ -1,0 +1,160 @@
+body{
+    background-color: #e5e4df !important;
+}
+h3{
+    font-family: 'Ubuntu', sans-serif ;
+    font-size: 4rem !important;
+}
+h6{
+    font-family: 'Ubuntu', sans-serif ;
+    font-size: 4rem !important;
+    text-align: center;
+
+}
+.navbar{
+    float: right;
+    margin-top: -70px;
+}
+.head{
+    padding: 2rem;
+    margin-left: 10px;
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+.headcontent{
+    margin-top: -3rem;
+    margin-left: 44px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+
+}
+.navbar button{
+    border: 2px solid;
+    border-color: black;
+    border-radius: 60px;
+    display: inline-block;
+    color: inherit;
+    width: 150px;
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 250;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin-right: 1rem;
+    background: #e5e4df;
+    transition: background-color 2s ease-out 100ms;
+
+}
+button:hover{
+    background-color: black !important;
+    color: white;
+    
+}
+
+.intro{
+    padding-top: 6rem;
+    padding-bottom: 8rem;
+    margin-left: 40px;
+    
+}
+.box1{
+    margin-top: -60px;
+    padding-top: 10px;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+    border: 1px solid;
+    border-color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    text-align: center;
+    position: relative;
+    left: 250px;
+    transition: background-color 2s ease-out 100ms;
+
+}
+.box1:hover{
+    background-color: black !important;
+    color: white;
+}
+.box2{
+    
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+    border: 1px solid;
+    border-color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    text-align: center;
+    position: relative;
+    left: 800px;
+    margin-top: -99px;
+    padding: 10px 10px 10px 10px ;
+    transition: background-color 2s ease-out 100ms;
+
+}
+.box2:hover{
+    background-color: black !important;
+    color: white;
+}
+.para{
+    padding: 2rem;
+    margin-left: 10px;
+}
+span{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+ p{
+    font-family: 'Ubuntu', sans-serif ;
+   font-size: 1.7rem;
+   font-weight: 100 !important;
+   margin-bottom: 2rem;
+   padding-top: 2rem;
+   margin-right: 3.5rem;
+   line-height: 2;
+   word-spacing: 2;
+}
+.connect{
+    padding: 2rem;
+    margin-left: 10px;
+
+}
+.connect button{
+    position: relative;
+    left:550px;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 60px;
+    display: inline-block;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 250;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin-right: 1rem;
+    background: black;
+    transition: background-color 2s ease-out 100ms;
+
+}
+.connect button:hover{
+    background-color: white !important;
+    color: black;
+    
+}
+.footer{
+    padding: 2rem;
+    margin-left: 10px;
+    text-align: center;
+}
+.footer p{
+    margin-top: 40px;
+    font-size: small;
+}
